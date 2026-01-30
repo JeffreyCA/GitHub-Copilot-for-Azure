@@ -353,6 +353,7 @@ tests/
 | appinsights-instrumentation | ❌ | - | - | - | - |
 | azure-ai | ❌ | - | - | - | - |
 | azure-aigateway | ❌ | - | - | - | - |
+| azure-cost-estimation | ❌ | - | - | - | - |
 | azure-cost-optimization | ❌ | - | - | - | - |
 | azure-create-app | ❌ | - | - | - | - |
 | azure-deploy | ❌ | - | - | - | - |
@@ -371,7 +372,7 @@ tests/
 | azure-security | ❌ | - | - | - | - |
 | azure-security-hardening | ❌ | - | - | - | - |
 | azure-storage | ❌ | - | - | - | - |
-| azure-validation | ✅ | ✅ | ✅ | ✅ | - |
+| azure-validation | ❌ | - | - | - | - |
 | entra-app-registration | ❌ | - | - | - | - |
 | microsoft-foundry | ❌ | - | - | - | - |
 
